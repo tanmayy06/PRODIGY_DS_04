@@ -52,7 +52,7 @@ The dataset file used:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<ta>/<repo-name>.git
+   git clone https://github.com/tanmayy06/PRODIGY_DS_04
    cd <PRODIGY_DS_04>
 Install Dependencies
 
